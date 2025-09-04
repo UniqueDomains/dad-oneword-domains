@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DAD one-word domains still available to buy.
 
-This dataset contains 4,298 .DAD one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,299 .DAD one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DAD one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dad-oneword-domains&utm_content=description.top) (4,298) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -86,8 +86,11 @@ If you want to search & filters the complete database of [.DAD one word domains]
 
 ## General
 
-| Name | Total Number | Extract | Full Database |
-| ---- | ------------ | ------- | ------------- |
+| Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
+| -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Expired  | 21,840       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 49,268       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 3,278,932    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
