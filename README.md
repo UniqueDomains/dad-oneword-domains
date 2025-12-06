@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DAD one-word domains still available to buy.
 
-This dataset contains 4,875 .DAD one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,876 .DAD one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DAD one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=dad-oneword-domains&utm_content=description.top) (4,875) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.DAD one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.dad        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.dad      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.dad        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.dad      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.dad  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.dad      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.dad  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.DAD one word domains]
 | abatic.dad     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.dad    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.dad   | available | 50       | 1%     | 8      |           |         |         |
-| abc.dad        | available | 102      | 41%    | 3      |           |         |         |
+| abc.dad        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.dad  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.dad  | premium   | 82       | 5%     | 9      |           |         |         |
 | abdominous.dad | available | 56       | 1%     | 10     |           |         |         |
