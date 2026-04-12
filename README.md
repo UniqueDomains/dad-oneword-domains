@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .dad one-word domains from Unique 
 
 **Public extract:** 9,777 rows · **Live catalog:** 9,777 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/dad`  
 **Best for:** founders, investors, studios
 
@@ -72,18 +72,18 @@ print(df.head())
 | power.dad      | premium   | $648.70   | $648.70       | 98             | 62     | 5      | namecheap                   |
 | ethereal.dad   | available | $16.98    | —             | 88             | 32     | 8      | namecheap                   |
 | seventeen.dad  | premium   | $36.25    | $36.25        | 84             | 62     | 9      | name.com                    |
-| adept.dad      | available | $16.98    | —             | 92             | 27     | 5      | namecheap                   |
-| enterprise.dad | premium   | $648.70   | $648.70       | 68             | 61     | 10     | namecheap                   |
 | curative.dad   | available | $16.98    | —             | 92             | 27     | 8      | namecheap                   |
+| enterprise.dad | premium   | $648.70   | $648.70       | 68             | 61     | 10     | namecheap                   |
+| adept.dad      | available | $16.98    | —             | 92             | 26     | 5      | namecheap                   |
 | free.dad       | premium   | $623.75   | $623.75       | 88             | 59     | 4      | name.com                    |
 | remedial.dad   | available | $16.98    | —             | 86             | 24     | 8      | namecheap                   |
 | cloud.dad      | premium   | $1,298.70 | $1,298.70     | 70             | 59     | 5      | namecheap                   |
 | critical.dad   | available | $16.98    | —             | 82             | 24     | 8      | namecheap                   |
 | ace.dad        | premium   | $623.75   | $623.75       | 88             | 57     | 3      | name.com                    |
 | abundant.dad   | available | $16.98    | —             | 80             | 21     | 8      | namecheap                   |
-| data.dad       | premium   | $648.70   | $648.70       | 70             | 56     | 4      | namecheap                   |
+| live.dad       | premium   | $623.75   | $623.75       | 108            | 56     | 4      | name.com                    |
 | sincere.dad    | available | $16.98    | —             | 72             | 21     | 7      | namecheap                   |
-| live.dad       | premium   | $623.75   | $623.75       | 108            | 55     | 4      | name.com                    |
+| data.dad       | premium   | $648.70   | $648.70       | 70             | 56     | 4      | namecheap                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DAD One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DAD One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
