@@ -75,11 +75,11 @@ print(df.head())
 | curative.dad   | available | $16.98    | —             | 92             | 27     | 8      | namecheap                   |
 | enterprise.dad | premium   | $648.70   | $648.70       | 68             | 61     | 10     | namecheap                   |
 | adept.dad      | available | $16.98    | —             | 92             | 26     | 5      | namecheap                   |
-| free.dad       | premium   | $623.75   | $623.75       | 88             | 59     | 4      | name.com                    |
-| remedial.dad   | available | $16.98    | —             | 86             | 24     | 8      | namecheap                   |
 | cloud.dad      | premium   | $1,298.70 | $1,298.70     | 70             | 59     | 5      | namecheap                   |
-| critical.dad   | available | $16.98    | —             | 82             | 24     | 8      | namecheap                   |
+| remedial.dad   | available | $16.98    | —             | 86             | 24     | 8      | namecheap                   |
 | ace.dad        | premium   | $623.75   | $623.75       | 88             | 57     | 3      | name.com                    |
+| critical.dad   | available | $16.98    | —             | 82             | 24     | 8      | namecheap                   |
+| free.dad       | premium   | $623.75   | $623.75       | 88             | 57     | 4      | name.com                    |
 | abundant.dad   | available | $16.98    | —             | 80             | 21     | 8      | namecheap                   |
 | live.dad       | premium   | $623.75   | $623.75       | 108            | 56     | 4      | name.com                    |
 | sincere.dad    | available | $16.98    | —             | 72             | 21     | 7      | namecheap                   |
