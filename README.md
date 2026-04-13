@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .dad one-word domains from Unique 
 
 **Public extract:** 9,777 rows · **Live catalog:** 9,777 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/dad`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | nationwide.dad | available | $16.98    | —             | 76             | 66     | 10     | namecheap                   |
 | bagh.dad       | resell    | —         | —             | 60             | 13     | 7      | Spaceship, Inc.             |
 | power.dad      | premium   | $648.70   | $648.70       | 98             | 62     | 5      | namecheap                   |
-| ethereal.dad   | available | $16.98    | —             | 88             | 32     | 8      | namecheap                   |
+| ethereal.dad   | available | $16.98    | —             | 88             | 31     | 8      | namecheap                   |
 | seventeen.dad  | premium   | $36.25    | $36.25        | 84             | 62     | 9      | name.com                    |
 | curative.dad   | available | $16.98    | —             | 92             | 27     | 8      | namecheap                   |
 | enterprise.dad | premium   | $648.70   | $648.70       | 68             | 61     | 10     | namecheap                   |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DAD One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DAD One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
