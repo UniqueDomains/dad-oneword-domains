@@ -671,6 +671,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 39f5aa1e-32e2-457a-8cdf-0f9836a854bb,justthen.dad,available,16.98,,62,1,9,namecheap,,
 3a087f6c-adf0-47b1-a653-09f417d2c667,backbreaking.dad,available,16.98,,54,1,13,namecheap,,
 3a09f1e6-fb6f-42bb-be34-9c4a633b8a54,cometoastop.dad,available,16.98,,62,1,14,namecheap,,
+3a227829-5c66-4eb8-a1ee-44dd3d72f89b,DIY.dad,premium,,,82,37,3,,,
 3a5e5536-52ff-459e-aa86-d5db83526cdd,replies.dad,available,16.98,,54,7,7,namecheap,,
 3a5fd154-504f-4ee8-aa07-2ab3e5831409,commonground.dad,available,16.98,,74,28,13,namecheap,,
 3a74d2e0-ab5c-4199-8019-8c4acf64b9e0,citizens.dad,premium,73.75,,60,19,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5692fab3-c5cf-4055-a5da-69c4bd1e50a6,estimators.dad,available,16.98,,50,3,10,namecheap,,
 56ad0b29-f07c-441f-a84c-c4aa7669ca6c,lets.dad,premium,161.25,,77,39,4,name.com,,
 56c4970d-5501-4f2f-86d4-0f5ae6490612,gowiththeflow.dad,available,16.98,,82,7,16,namecheap,,
-56c8177a-6fef-4da7-bdc0-663d3983964f,alotof.dad,available,16.98,,60,5,8,namecheap,,
