@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dad one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,754 domains · **Median ask:** $75.86 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/dad`  
 **Best for:** founders, investors, studios
 
@@ -69,15 +69,15 @@ print(df.head())
 | shortcuts.dad    | available | $16.98    | —             | 48             | 41     | 10     | namecheap |
 | cars.dad         | premium   | $623.75   | —             | 66             | 47     | 4      | name.com  |
 | prompts.dad      | available | $16.98    | —             | 54             | 39     | 7      | namecheap |
-| jobs.dad         | premium   | $1,248.75 | —             | 79             | 42     | 4      | name.com  |
+| whynot.dad       | premium   | $161.25   | —             | 74             | 44     | 7      | name.com  |
 | commonground.dad | available | $16.98    | —             | 74             | 28     | 13     | namecheap |
+| jobs.dad         | premium   | $1,248.75 | —             | 79             | 42     | 4      | name.com  |
+| gobeyond.dad     | available | $16.98    | —             | 76             | 19     | 9      | namecheap |
 | coins.dad        | premium   | $311.25   | —             | 56             | 41     | 5      | name.com  |
 | lostandfound.dad | available | $16.98    | —             | 64             | 19     | 14     | namecheap |
 | Tools.dad        | premium   | $698.60   | $698.60       | 56             | 40     | 5      | namecheap |
-| gobeyond.dad     | available | $16.98    | —             | 76             | 18     | 9      | namecheap |
-| lets.dad         | premium   | $161.25   | —             | 77             | 39     | 4      | name.com  |
 | techsupport.dad  | available | $16.98    | —             | 76             | 18     | 12     | namecheap |
-| whynot.dad       | premium   | $161.25   | —             | 74             | 39     | 7      | name.com  |
+| lets.dad         | premium   | $161.25   | —             | 77             | 39     | 4      | name.com  |
 | goviral.dad      | available | $16.98    | —             | 76             | 17     | 8      | namecheap |
 | WiFi.dad         | premium   | $698.60   | $698.60       | 83             | 37     | 5      | namecheap |
 | jetlag.dad       | available | $16.98    | —             | 72             | 17     | 7      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DAD One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DAD One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
