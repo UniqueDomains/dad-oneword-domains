@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .dad one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,754 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,754 domains · **Median ask:** $75.86 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,754 domains · **Median ask:** $109.99 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/dad`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/dad`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DAD one-word domain c
 
 ### Files
 
-- `dad.csv` — public CSV extract (1,000 rows)
-- `dad.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `dad.csv`, public CSV extract (1,000 rows)
+- `dad.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| RedSox.dad       | available | $16.98    | —             | 72             | 60     | 7      | namecheap |
-| farmers.dad      | premium   | $73.75    | —             | 54             | 59     | 7      | name.com  |
-| shortcuts.dad    | available | $16.98    | —             | 48             | 41     | 10     | namecheap |
-| cars.dad         | premium   | $623.75   | —             | 66             | 47     | 4      | name.com  |
-| prompts.dad      | available | $16.98    | —             | 54             | 39     | 7      | namecheap |
-| whynot.dad       | premium   | $161.25   | —             | 74             | 44     | 7      | name.com  |
-| commonground.dad | available | $16.98    | —             | 74             | 28     | 13     | namecheap |
-| jobs.dad         | premium   | $1,248.75 | —             | 79             | 42     | 4      | name.com  |
-| gobeyond.dad     | available | $16.98    | —             | 76             | 19     | 9      | namecheap |
-| coins.dad        | premium   | $311.25   | —             | 56             | 41     | 5      | name.com  |
-| lostandfound.dad | available | $16.98    | —             | 64             | 19     | 14     | namecheap |
-| Tools.dad        | premium   | $698.60   | $698.60       | 56             | 40     | 5      | namecheap |
-| techsupport.dad  | available | $16.98    | —             | 76             | 18     | 12     | namecheap |
-| lets.dad         | premium   | $161.25   | —             | 77             | 39     | 4      | name.com  |
-| goviral.dad      | available | $16.98    | —             | 76             | 17     | 8      | namecheap |
-| WiFi.dad         | premium   | $698.60   | $698.60       | 83             | 37     | 5      | namecheap |
-| jetlag.dad       | available | $16.98    | —             | 72             | 17     | 7      | namecheap |
-| tokens.dad       | premium   | $73.75    | —             | 51             | 36     | 6      | name.com  |
-| Sundays.dad      | available | $16.98    | —             | 61             | 17     | 7      | namecheap |
-| tickets.dad      | premium   | $623.75   | —             | 64             | 34     | 7      | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ahuh.dad  | available | $16.98    | —             | high           | low    | 4      | namecheap |
+| act.dad   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com  |
+| Audi.dad  | available | $16.98    | —             | high           | high   | 4      | namecheap |
+| bow.dad   | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
+| avon.dad  | available | $16.98    | —             | high           | low    | 4      | namecheap |
+| buy.dad   | premium   | $1,248.75 | —             | high           | medium | 3      | name.com  |
+| flee.dad  | available | $16.98    | —             | medium         | low    | 4      | namecheap |
+| CNN.dad   | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
+| flew.dad  | available | $16.98    | —             | high           | low    | 4      | namecheap |
+| coy.dad   | premium   | $73.75    | $73.75        | medium         | low    | 3      | name.com  |
+| jolt.dad  | available | $16.98    | —             | high           | low    | 4      | namecheap |
+| cue.dad   | premium   | $73.75    | —             | medium         | low    | 3      | name.com  |
+| thou.dad  | available | $16.98    | —             | medium         | low    | 4      | namecheap |
+| dip.dad   | premium   | $161.25   | $161.25       | high           | low    | 3      | name.com  |
+| vain.dad  | available | $16.98    | —             | medium         | low    | 4      | namecheap |
+| don.dad   | premium   | $311.25   | —             | high           | low    | 3      | name.com  |
+| xvii.dad  | available | $16.98    | —             | medium         | low    | 4      | namecheap |
+| eye.dad   | premium   | $623.75   | —             | medium         | low    | 3      | name.com  |
+| aided.dad | available | $16.98    | —             | high           | low    | 5      | namecheap |
+| far.dad   | premium   | $311.25   | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .dad domains, which creates a very specific naming profile. Some names are literal and family-centered, such as father.dad, while others are broader dictionary words like true.dad, only.dad, nutrient.dad, and guarantee.dad. That mix matters. Founders should favor words that stay clear, easy to say, and relevant to a family, parenting, creator, or novelty concept. Investors should focus on whether the word has obvious end-user relevance inside the .dad extension, because extension-word fit will shape resale interest more than the word alone. With a median ask of 75.86, price discipline is straightforward, but semantic fit is the main filter.
+This list of one-word .dad domain names spans playful pop-culture references, personal and family-themed words, and short brandable terms. The median asking price across this selection is $109.99, giving a practical baseline for comparing individual listings. Because .dad carries a personal, approachable tone, these domains tend to suit consumer-facing brands, parenting content, and lifestyle projects rather than strictly technical products. When comparing names in this set, weigh asking price against renewal cost, spelling simplicity, and how easily the word reads as a standalone brand before committing to one.
 
-- Prioritize word and extension fit: father.dad is clearer than abstract terms.
-- Median ask is 75.86, so weak-fit names are easier to pass on.
-- Literal family terms may read faster than broad dictionary words.
-- Check trademark risk before valuing brandability or resale appeal.
+- 12,754 one-word .dad domain names in this selection
+- Median asking price: $109.99 per domain
+- Mix of playful, personal, and brandable one-word names
+- Compare price, spelling, and renewal before choosing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DAD One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DAD One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
