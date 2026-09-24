@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .dad one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,569 domains · **Median ask:** $51.15 · **High-demand under $2,500:** 28
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/dad`
 **Best for:** founders, investors, studios
 
@@ -77,7 +77,7 @@ print(df.head())
 | ecru.dad | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
 | cnn.dad  | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
 | eyry.dad | available | $12.98    | $16.98        | low            | low    | 4      | namecheap |
-| coy.dad  | premium   | $73.75    | $73.75        | medium         | low    | 3      | name.com  |
+| coy.dad  | premium   | $76.70    | $76.70        | low            | low    | 3      | namecheap |
 | flee.dad | available | $16.98    | —             | medium         | low    | 4      | namecheap |
 | cue.dad  | premium   | $73.75    | —             | medium         | low    | 3      | name.com  |
 | flew.dad | available | $16.98    | —             | high           | low    | 4      | namecheap |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DAD One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DAD One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
