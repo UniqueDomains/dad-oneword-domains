@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-ca59c9fe-b917-48bb-9da6-52959eab95b5,protected.dad,premium,36.25,,high,low,9,name.com,,,
+ca59c9fe-b917-48bb-9da6-52959eab95b5,protected.dad,premium,37.7,37.7,high,low,9,namecheap,,,27/09/2026 07:42
 5c1ad025-02c2-4c68-9ade-43fb557f1dae,earn.dad,premium,311.25,,high,low,4,name.com,,,
 bde24538-b509-4650-aec7-230cce0a800c,frequency.dad,premium,76.7,76.7,high,low,9,namecheap,,,16/09/2026 17:49
 1dcc308c-1f3b-4796-973b-a305502b1f70,activated.dad,available,12.98,16.98,high,low,9,namecheap,,,21/09/2026 16:32
@@ -32,7 +32,7 @@ d6b614f8-6661-4751-bc4f-85333108143f,motion.dad,premium,311.25,,high,low,6,name.
 ac5fe845-0621-4396-b1ae-9d822912b605,begging.dad,available,12.98,16.98,high,low,7,namecheap,,,23/09/2026 02:16
 cfad77a8-77e3-4103-9795-459f03354b32,eternal.dad,premium,167.7,167.7,high,medium,7,namecheap,,,21/09/2026 22:47
 b76642ed-5897-4569-bfcd-0f124bc70798,tailless.dad,available,12.98,16.98,medium,low,8,namecheap,,,05/08/2026 21:33
-0f565277-8c38-4eb6-b881-85d438e7c980,prolife.dad,premium,36.25,,high,low,8,name.com,,,
+0f565277-8c38-4eb6-b881-85d438e7c980,prolife.dad,premium,37.7,37.7,high,low,8,namecheap,,,27/09/2026 06:51
 b92fae38-1fd4-4b8d-bad2-b59b5e433e2f,seemly.dad,available,12.98,16.98,medium,low,6,namecheap,,,09/08/2026 06:27
 3ea6df1f-3fea-4fbd-be23-c815fe6b431b,churlish.dad,available,12.98,16.98,medium,low,8,namecheap,,,12/08/2026 07:49
 3b75d27f-16b8-490a-846b-655bc2008fc9,vexer.dad,available,12.98,16.98,medium,low,5,namecheap,,,19/09/2026 10:52
@@ -89,19 +89,20 @@ b430d4ba-976f-41c7-bd9a-f57142dd35bc,bullying.dad,available,12.98,16.98,medium,l
 00df4b08-b98b-4a80-99c7-d9750cc437f1,hag.dad,premium,76.7,76.7,high,low,3,namecheap,,,23/09/2026 04:44
 f75ff2b3-0056-4825-8a08-3e92bfb5f100,heralded.dad,available,12.98,16.98,medium,low,8,namecheap,,,21/08/2026 06:51
 3f384995-b42c-4bb6-9925-86a6d76ddbde,disgusted.dad,available,12.98,16.98,medium,low,9,namecheap,,,14/08/2026 10:30
-173ec961-6a58-42a4-8644-177661fa22b2,prepare.dad,premium,73.75,,high,low,7,name.com,,,
+173ec961-6a58-42a4-8644-177661fa22b2,prepare.dad,premium,73.75,73.75,high,low,7,name.com,,,27/09/2026 10:25
 a94d1744-7c99-46f5-93bd-9ef46aab9000,dumpy.dad,available,12.98,16.98,medium,low,5,namecheap,,,14/08/2026 21:10
 dabf53d7-92d3-4fcf-b03b-6a252913163c,performing.dad,available,12.98,16.98,high,low,10,namecheap,,,
 9ee599f9-1f81-4a05-95f8-a08a971d3b5a,unsaved.dad,available,12.98,16.98,medium,low,7,namecheap,,,12/09/2026 17:57
 9acab8d3-c5c1-4456-9111-167c9b04c718,nucleated.dad,available,12.98,16.98,medium,low,9,namecheap,,,03/09/2026 22:22
 5ad08a95-2682-4a3f-bc97-9b3c26852409,anvers.dad,available,12.98,16.98,medium,low,6,namecheap,,,19/09/2026 15:49
 2da65fb8-28ae-4288-a7c5-6b674a28151a,penile.dad,available,12.98,16.98,medium,low,6,namecheap,,,08/09/2026 14:21
+a65ac8f3-db93-4924-87eb-87c4a7b0ddba,epstein.dad,available,12.98,16.98,high,low,7,namecheap,,,27/09/2026 03:50
 300064fd-eeaa-4cd0-891e-c299c8f9aefd,isolation.dad,available,12.98,16.98,high,low,9,namecheap,,,24/09/2026 16:00
 689e0b76-1bea-43a2-a388-5c08efe689f7,voluptuary.dad,available,12.98,16.98,medium,low,10,namecheap,,,24/08/2026 12:27
 89ce7faf-9888-4302-b18e-a7dd6a90915c,afresh.dad,available,12.98,16.98,medium,low,6,namecheap,,,13/09/2026 18:01
 ff767db2-aabd-4c97-96d8-f492b2583b6c,bring.dad,premium,167.7,167.7,high,low,5,namecheap,,,25/09/2026 05:59
 441e6824-9448-4193-a06b-e7e0ba1f5561,persuasive.dad,available,12.98,16.98,high,low,10,namecheap,,,08/09/2026 18:05
-511698b5-afa2-4a86-b09a-2ad02f46084c,game.dad,premium,1298.7,1298.7,high,medium,4,namecheap,,,24/09/2026 21:53
+511698b5-afa2-4a86-b09a-2ad02f46084c,game.dad,premium,1298.7,1298.7,high,medium,4,namecheap,,,27/09/2026 01:48
 326c8ffb-63a3-4a3c-b3bb-2b54c1a86df5,yesterday.dad,premium,36.25,,high,low,9,name.com,,,
 654c96a4-5dc3-444a-a624-a297d5ee20ae,hopes.dad,premium,37.7,37.7,high,low,5,namecheap,,,25/09/2026 19:44
 a4c16ab5-b33e-4dc6-abf7-24988f250901,gaelic.dad,available,12.98,16.98,high,low,6,namecheap,,,11/08/2026 23:40
@@ -121,6 +122,7 @@ bb14b9da-fd7d-45e2-b22e-7f7de5701dd1,variform.dad,available,12.98,16.98,medium,l
 71488323-ee14-429a-9e52-b38a0c445cba,athelstan.dad,available,12.98,16.98,medium,low,9,namecheap,,,20/09/2026 20:33
 b2bf3202-6ec4-4503-a0c8-87be84c96a0b,allotted.dad,available,12.98,16.98,high,low,8,namecheap,,,
 0b725b89-7f73-47ba-87f6-1a3953ee7035,reconciled.dad,available,12.98,16.98,high,low,10,namecheap,,,09/09/2026 11:49
+f945ba79-8913-43f0-b909-bc683cf8ec2a,barclay.dad,available,12.98,16.98,high,low,7,namecheap,,,27/09/2026 03:05
 c8b37711-3443-4896-903a-f056247d02e3,alsatia.dad,available,12.98,16.98,medium,low,7,namecheap,,,18/09/2026 14:16
 66ec20ad-ac3b-4ccc-92f6-1757ba5cb865,banned.dad,premium,161.25,161.25,medium,low,6,name.com,,,08/08/2026 13:44
 128db227-d9ba-4a9a-b936-58077f48bf23,artiste.dad,available,12.98,16.98,high,low,7,namecheap,,,20/09/2026 11:55
@@ -199,6 +201,7 @@ cf685245-face-49fa-872e-0d5e65def2a7,partially.dad,available,12.98,16.98,medium,
 c71e78aa-1504-493f-add6-770a2cae3078,computers.dad,premium,167.7,167.7,high,low,9,namecheap,,,24/09/2026 02:05
 7669da03-b560-420f-82c8-6c7c27333005,diversely.dad,available,12.98,16.98,medium,low,9,namecheap,,,14/09/2026 13:25
 8692063d-6782-4c4d-975a-13570d4a448c,bingle.dad,available,12.98,16.98,medium,low,6,namecheap,,,19/09/2026 16:38
+59feccbc-1185-4969-ba8a-7a144b1fe54a,prosecutor.dad,available,12.98,16.98,high,low,10,namecheap,,,27/09/2026 05:05
 2e6518bc-93a6-4cd9-848c-afc62b0bb98f,appendix.dad,available,12.98,16.98,high,low,8,namecheap,,,19/09/2026 20:40
 ebcf81d8-1e5b-44f1-a05b-658e86011de2,louche.dad,available,12.98,16.98,medium,low,6,namecheap,,,24/08/2026 10:02
 55e11238-3cb7-403f-a12b-c80ecf20da62,inaccurate.dad,available,12.98,16.98,medium,low,10,namecheap,,,22/08/2026 00:09
@@ -220,6 +223,7 @@ a55dee81-d3cf-4516-9519-f73749976ba8,impossibly.dad,available,12.98,16.98,medium
 5848ccf2-17f7-4417-b506-aa667c2347b2,finished.dad,available,12.98,16.98,high,low,8,namecheap,,,24/09/2026 18:27
 119cbf18-ef20-43c2-8c70-4634f57b845d,fruit.dad,premium,311.25,,high,low,5,name.com,,,
 6d77ff47-4d85-40da-9867-aa875012ba19,advertising.dad,premium,323.7,323.7,high,low,11,namecheap,,,23/09/2026 07:26
+e4f46330-8b7a-4044-9f51-d2c0a7121093,dominic.dad,premium,37.7,37.7,high,low,7,namecheap,,,27/09/2026 03:45
 b4b03669-b8ae-4923-9fd8-902d2b98fb8c,tapes.dad,available,12.98,16.98,medium,low,5,namecheap,,,25/09/2026 21:42
 9ccacd66-632f-4358-81a9-9e68af1329e9,prenatal.dad,available,12.98,16.98,high,low,8,namecheap,,,22/09/2026 05:55
 52942120-19dd-4091-b3e3-e11b5351165a,enactment.dad,available,12.98,16.98,high,low,9,namecheap,,,17/09/2026 04:06
@@ -227,6 +231,7 @@ a043d36c-6165-4be4-813e-131f98976b94,amethyst.dad,available,12.98,16.98,high,low
 b8776af7-3f1c-427d-ae20-6b6e1acacb81,adjuster.dad,available,12.98,16.98,high,low,8,namecheap,,,17/09/2026 08:32
 b820faf9-b625-4e75-82ce-a7e95ec833e8,ravaged.dad,available,12.98,16.98,medium,low,7,namecheap,,,14/08/2026 04:29
 2fbe5a01-72c6-49ea-b11c-caacbee999c2,tasman.dad,available,12.98,16.98,medium,low,6,namecheap,,,16/09/2026 14:58
+309c8862-cfef-4e49-8f96-e9f7035c0609,leah.dad,premium,37.7,37.7,high,low,4,namecheap,,,27/09/2026 07:15
 8dbf39b2-d63e-4438-ab14-a434897325c8,chest.dad,premium,76.7,76.7,high,low,5,namecheap,,,24/09/2026 10:14
 b7b5406b-29a0-4785-a1c4-51cc85740f86,rig.dad,premium,76.7,76.7,high,low,3,namecheap,,,20/09/2026 11:18
 d5fed649-83f5-4b44-b4c9-6c91acf7f8fa,cloning.dad,available,16.99,18.99,high,low,7,name.com,,,24/09/2026 15:52
@@ -266,7 +271,7 @@ b700014f-2423-407f-a4f1-5ce3b1726bb0,pinnate.dad,available,12.98,16.98,high,medi
 55dba759-9060-445c-a40e-32a2fc4c1f61,bioethics.dad,available,12.98,16.98,high,low,9,namecheap,,,23/09/2026 17:56
 1babcaa4-819a-4990-b420-69065ce5cfdc,subjective.dad,available,12.98,16.98,high,low,10,namecheap,,,25/09/2026 07:50
 c0eed9e5-8adf-44ad-b144-14e5e6298392,corny.dad,available,12.98,16.98,high,low,5,namecheap,,,23/09/2026 23:25
-c5732832-17c6-4cf5-b73f-639dc9db9351,piano.dad,premium,623.75,,high,low,5,name.com,,,
+c5732832-17c6-4cf5-b73f-639dc9db9351,piano.dad,premium,648.7,648.7,high,low,5,namecheap,,,27/09/2026 03:41
 6b493644-fc02-4938-8a3d-2f0fea207fdf,caoutchouc.dad,available,12.98,16.98,high,medium,10,namecheap,,,09/09/2026 19:12
 b3a33c93-7939-4316-a0b7-dbf464515d99,seeable.dad,available,12.98,16.98,medium,low,7,namecheap,,,10/09/2026 01:41
 6d791c7d-f523-4633-8820-f76ec3df9b2b,operant.dad,available,12.98,16.98,high,low,7,namecheap,,,04/09/2026 16:22
@@ -318,7 +323,7 @@ bbab8964-7bc4-4154-a28d-a2ecf8e9016f,apologize.dad,available,16.98,,high,low,9,n
 6f2c2e32-48da-4254-9bf2-11df203a86e3,outer.dad,premium,36.25,,high,low,5,name.com,,,
 0c82d7da-6031-44bf-9c4a-80721656fa55,gravely.dad,available,12.98,16.98,medium,low,7,namecheap,,,13/09/2026 23:09
 f4ac8855-0138-46ff-b727-aecd7964bc34,realised.dad,available,12.98,16.98,high,low,8,namecheap,,,23/09/2026 17:33
-bd5aead3-47eb-4193-8677-e77a3b892c92,photo.dad,premium,1298.7,1298.7,high,medium,5,namecheap,,,23/09/2026 06:22
+bd5aead3-47eb-4193-8677-e77a3b892c92,photo.dad,premium,1298.7,1298.7,high,medium,5,namecheap,,,27/09/2026 02:21
 4d11a07f-5bcb-4d7d-a378-3a82c61ff7b5,ringer.dad,available,12.98,16.98,high,low,6,namecheap,,,23/09/2026 05:42
 701e18d9-bf29-452b-b9cb-6c32b0299907,jelly.dad,premium,73.75,,high,low,5,name.com,,,
 a221f660-f62d-476a-bf69-51bd2eeee063,shoeless.dad,available,12.98,16.98,medium,low,8,namecheap,,,08/08/2026 19:04
@@ -336,7 +341,7 @@ fd554023-ee4d-42f5-8eb6-f7c58cffed44,binding.dad,premium,37.7,37.7,high,low,7,na
 b7b484c8-3e2b-4cc8-8417-bdef4e82ce09,drone.dad,premium,648.7,648.7,high,medium,5,namecheap,,,25/09/2026 13:01
 0b994693-bb76-43b7-982d-735eb0c6e143,hayastan.dad,available,12.98,16.98,medium,low,8,namecheap,,,20/09/2026 06:40
 0dd7c224-e3b3-4a0f-9972-aa14eed43875,replying.dad,available,12.98,16.98,medium,low,8,namecheap,,,18/09/2026 12:55
-6cd49292-abc6-4dc0-93be-65b353d2d3e5,half.dad,premium,1298.7,1298.7,high,low,4,namecheap,,,24/09/2026 23:16
+6cd49292-abc6-4dc0-93be-65b353d2d3e5,half.dad,premium,1298.7,1298.7,high,low,4,namecheap,,,27/09/2026 04:43
 413c120f-5d9c-44d6-b284-c0d05729e08c,pyemic.dad,available,12.98,16.98,high,medium,6,namecheap,,,09/09/2026 06:48
 5a5383d6-1d71-44ac-807d-58ee348fdeba,brainless.dad,available,12.98,16.98,medium,low,9,namecheap,,,11/08/2026 01:41
 400bb594-5869-4e51-927c-412c9bc3c6b2,stroppy.dad,available,12.98,16.98,medium,low,7,namecheap,,,10/08/2026 17:59
@@ -380,6 +385,7 @@ e55cae33-754b-48db-a952-634cf20ca68a,rocky.dad,premium,76.7,76.7,high,low,5,name
 672dab0c-320e-457e-addc-be6a7544aea5,bali.dad,premium,161.25,,high,medium,4,name.com,,,
 b7970792-e5ee-42ae-852c-3b4769cc4868,hangbird.dad,available,12.98,16.98,medium,low,8,namecheap,,,22/09/2026 00:20
 dfef3cfd-c57f-44b9-a178-ff004f6a1f4c,maxilla.dad,available,12.98,16.98,medium,low,7,namecheap,,,24/08/2026 17:52
+48306d9b-2288-4051-bca9-071edcb1908a,marilyn.dad,premium,37.7,37.7,high,low,7,namecheap,,,27/09/2026 06:57
 ad14c237-ffb4-408f-9a1b-ae6efd3d14a2,albino.dad,available,12.98,16.98,high,low,6,namecheap,,,18/09/2026 02:58
 f8b5dedd-9709-4b27-b6c2-82a258a07ef0,scars.dad,available,12.98,16.98,medium,low,5,namecheap,,,20/09/2026 11:02
 8de0f913-cdad-4f62-97da-9644e113bc0a,naught.dad,available,12.98,16.98,medium,low,6,namecheap,,,03/09/2026 22:40
@@ -516,7 +522,7 @@ ce810664-a636-4293-a8d3-4bb05aaa01eb,dashed.dad,available,16.99,18.99,medium,low
 2c93afd9-36e5-439c-a836-e0337b9b473f,ample.dad,premium,36.25,36.25,high,low,5,name.com,,,
 78ee54a7-62cb-4760-adae-e2eebe953f2c,buttonwood.dad,available,16.99,18.99,high,low,10,name.com,,,18/09/2026 20:34
 c49b6bf5-db2e-47cd-ad42-1604c09508e1,reverie.dad,available,12.98,16.98,high,low,7,namecheap,,,17/09/2026 21:59
-e4d1fbbe-b140-4592-8749-96f3ed245858,jail.dad,premium,73.75,,high,low,4,name.com,,,
+e4d1fbbe-b140-4592-8749-96f3ed245858,jail.dad,premium,76.7,76.7,high,low,4,namecheap,,,27/09/2026 04:20
 3e187aeb-4984-4c81-8e97-44d7783ebba9,voted.dad,available,12.98,16.98,medium,low,5,namecheap,,,17/09/2026 16:50
 2922a2d7-6738-4d69-b3e2-aceffc2b1403,rocket.dad,premium,311.25,,high,medium,6,name.com,,,
 fe4a46e8-6638-4305-8ea2-e2e2e5b0b2d1,orphan.dad,available,16.98,,high,low,6,namecheap,,,
@@ -570,6 +576,7 @@ a4ffe2ff-d769-44c7-b35d-12812f5bc497,deposits.dad,available,16.98,,medium,low,8,
 46a7e736-d0ac-470e-95e4-4b90f7f7b4c2,pitiless.dad,available,12.98,16.98,high,medium,8,namecheap,,,08/09/2026 20:05
 10258c00-bf4f-4612-8809-f5739f7d9807,nigh.dad,available,12.98,16.98,medium,low,4,namecheap,,,12/08/2026 12:04
 d70fd6b5-7619-4dce-ba66-b60a9a5eb1ec,bronte.dad,available,12.98,16.98,high,low,6,namecheap,,,19/09/2026 10:16
+d8af55ab-53d4-4e1d-bbc9-b0975910d574,moreno.dad,premium,37.7,37.7,high,low,6,namecheap,,,27/09/2026 10:16
 8284472b-df9a-4932-97b4-aa53487ed7c2,polynomial.dad,available,12.98,16.98,high,low,10,namecheap,,,03/09/2026 10:48
 5a69fb4a-d644-4709-a97b-c106ddd29cbb,vanished.dad,available,12.98,16.98,medium,low,8,namecheap,,,13/09/2026 01:09
 38a137a1-94b1-43bb-baf3-beb36f707139,bizarre.dad,premium,37.7,37.7,high,low,7,namecheap,,,22/09/2026 21:11
@@ -643,7 +650,6 @@ ca921870-c700-4e35-b143-522c413abfd7,lee.dad,premium,623.75,623.75,high,medium,3
 70f07547-6d6e-4de9-b42f-9c6bc98befec,fund.dad,premium,648.7,648.7,high,low,4,namecheap,,,23/09/2026 16:38
 4616dd08-ec00-4677-beb1-4e00f12660c0,gamin.dad,available,12.98,16.98,medium,low,5,namecheap,,,11/09/2026 14:56
 43584f34-1a5d-48a8-addb-34f1beff2474,been.dad,premium,311.25,,medium,low,4,name.com,,,
-ee2068ba-bf9b-422d-8ba7-25a6b4e9518d,netflix.dad,available,,,high,high,7,,,,
 6def4f1c-9362-49e3-ab80-d3b80502a364,humanistic.dad,available,12.98,16.98,high,low,10,namecheap,,,21/08/2026 14:53
 0f9684b6-dc16-483b-b6ca-6275b4fd5566,birds.dad,premium,311.25,,high,low,5,name.com,,,
 beaee1df-42d2-4cb1-9947-dc4f5d2678a6,supplier.dad,premium,73.75,,high,low,8,name.com,,,
@@ -707,7 +713,7 @@ e7bb7c6e-7f83-40dc-acdc-b342f31ad66e,oneself.dad,available,16.98,,high,low,7,nam
 cb8d1947-8091-42bb-aca0-f3b797e191c6,lord.dad,premium,323.7,323.7,high,low,4,namecheap,,,22/09/2026 01:47
 a88017e5-bd4f-486d-a72b-d2eb58f771f8,apothegm.dad,available,12.98,16.98,medium,low,8,namecheap,,,19/09/2026 17:10
 a2d2910a-e032-469f-9752-6ce06d52d45d,steroids.dad,available,12.98,16.98,medium,low,8,namecheap,,,19/09/2026 19:38
-2e47b5e3-1479-4c54-8bd2-2f1e4aec180e,security.dad,premium,648.7,648.7,high,medium,8,namecheap,,,24/09/2026 21:55
+2e47b5e3-1479-4c54-8bd2-2f1e4aec180e,security.dad,premium,648.7,648.7,high,medium,8,namecheap,,,27/09/2026 01:45
 6da7c84e-068d-455f-b3ff-e13a18ccb72c,palmae.dad,available,12.98,16.98,high,low,6,namecheap,,,20/09/2026 03:32
 a1daab73-8299-43a8-aa60-79948f760bb2,tomorrows.dad,available,12.98,16.98,medium,low,9,namecheap,,,21/09/2026 09:58
 cf191356-cae0-474b-b160-3bad882da03e,columbo.dad,available,12.98,16.98,medium,low,7,namecheap,,,18/09/2026 19:32
@@ -723,9 +729,9 @@ f178120b-e762-453c-b55b-d8783ff338cf,accompany.dad,available,12.98,16.98,high,lo
 65f782e1-8c94-46e1-8418-2966ed6b631b,gaudy.dad,available,12.98,16.98,medium,low,5,namecheap,,,18/08/2026 06:37
 e962ad3c-f204-47d3-9050-0db9a3fe0554,cultivated.dad,available,12.98,16.98,high,low,10,namecheap,,,13/08/2026 10:14
 a6c5cd28-8cdd-40d0-8113-79d11d283356,affair.dad,premium,76.7,76.7,high,low,6,namecheap,,,17/09/2026 13:59
+2832cf59-fd83-4880-9bc0-f6e2f190d45d,celebration.dad,premium,37.7,37.7,high,low,11,namecheap,,,27/09/2026 02:20
 a4cb4236-169c-41b7-bf89-a4e9b747e244,roarer.dad,available,12.98,16.98,medium,low,6,namecheap,,,22/09/2026 16:57
 9d074d41-6a29-476f-b40d-3efacf2c9933,dishonour.dad,available,16.98,,medium,low,9,namecheap,,,
-cde222a8-3ac4-4b61-91b8-0dac85bed3e6,psycho.dad,premium,73.75,,high,low,6,name.com,,,
 ffac7b45-0c9a-4f00-8405-6559aa5860e7,sharply.dad,available,16.98,,medium,low,7,namecheap,,,
 3940e57a-ecaf-45e2-b5d8-e46e20dba198,smoothed.dad,available,12.98,16.98,high,low,8,namecheap,,,10/09/2026 12:07
 045eb404-1bcb-41ae-80ff-555d45d7310d,pretorial.dad,available,12.98,16.98,high,medium,9,namecheap,,,09/09/2026 01:02
@@ -735,6 +741,7 @@ b84a066a-87aa-4d96-a155-c6923110c686,designs.dad,premium,648.7,648.7,high,low,7,
 917d116a-fee9-4722-839b-f02abf46c6a2,airstream.dad,available,12.98,16.98,high,low,9,namecheap,,,17/09/2026 23:23
 61a3e19f-c7c1-4a69-b8da-134072ad6917,glistening.dad,available,12.98,16.98,high,low,10,namecheap,,,20/08/2026 14:30
 60532de1-09b4-4bd7-b18e-a6e8dbcf4049,spastic.dad,available,12.98,16.98,medium,low,7,namecheap,,,13/08/2026 00:06
+c19c9445-add7-4262-8c4f-6970ab9551fa,cleaned.dad,available,12.98,16.98,high,low,7,namecheap,,,27/09/2026 02:45
 f28431f6-9a60-4d41-afd7-e8fc228c67f5,crawford.dad,premium,37.7,37.7,high,medium,8,namecheap,,,25/09/2026 04:25
 b022d755-b25e-462f-9808-660b51718022,summary.dad,premium,76.7,76.7,high,low,7,namecheap,,,23/09/2026 17:08
 a2bbe148-c085-4a7a-a6ca-021727882a96,aerobic.dad,available,12.98,16.98,high,low,7,namecheap,,,21/09/2026 21:01
@@ -755,7 +762,7 @@ fce99a80-4a25-4e03-a861-53dd68d951b2,hatred.dad,available,16.98,,medium,low,6,na
 7b955834-48c4-45a5-a926-0c6fa37d8959,spectra.dad,premium,76.7,76.7,high,low,7,namecheap,,,18/09/2026 20:18
 af05078a-7532-49a5-820c-69b56c16a3f9,automaton.dad,available,12.98,16.98,high,low,9,namecheap,,,21/09/2026 07:00
 bdedce65-6eb1-4a1a-a459-4ce728012d16,martian.dad,available,12.98,16.98,high,low,7,namecheap,,,24/08/2026 16:37
-b1e53a2d-f0aa-45ee-98d5-ca714eb1ef23,hello.dad,premium,623.75,,high,high,5,name.com,,,
+b1e53a2d-f0aa-45ee-98d5-ca714eb1ef23,hello.dad,premium,648.7,648.7,high,high,5,namecheap,,,27/09/2026 06:35
 eeab7450-1908-484a-953b-b99ab505ed08,disc.dad,premium,161.25,,high,low,4,name.com,,,
 69ed5900-42c9-4224-a903-9440c8696d0d,mohammedan.dad,available,12.98,16.98,medium,low,10,namecheap,,,25/08/2026 03:23
 96a9baae-8935-4b13-a682-51e9de0540bf,valmy.dad,available,12.98,16.98,medium,low,5,namecheap,,,22/09/2026 16:13
@@ -790,6 +797,7 @@ a58c9656-88ca-48e6-992b-f29769849744,arc.dad,premium,623.75,623.75,high,medium,3
 10f395ad-15a5-4eac-aedf-075dcff95434,phage.dad,available,12.98,16.98,medium,low,5,namecheap,,,21/09/2026 16:31
 f5a8cce1-4c10-49aa-ac83-bf59d8501852,octet.dad,available,12.98,16.98,high,low,5,namecheap,,,
 551b0db8-9df3-459a-a576-f136e5b9fcab,doped.dad,available,12.98,16.98,medium,low,5,namecheap,,,14/08/2026 15:59
+5a2dd5a3-5c35-4ce1-8afd-e252fad535c1,alexandra.dad,premium,76.7,76.7,medium,low,9,namecheap,,,27/09/2026 02:30
 78868914-f777-47ad-af73-f69b07967627,coastwise.dad,available,12.98,16.98,medium,low,9,namecheap,,,12/08/2026 14:12
 d832ba97-47a9-435a-9b84-4eac62973000,duple.dad,available,12.98,16.98,medium,low,5,namecheap,,,14/08/2026 20:37
 b65ee972-f295-4105-ac87-3c3e50ca6b8e,detector.dad,premium,37.7,37.7,high,low,8,namecheap,,,24/09/2026 21:49
@@ -833,6 +841,7 @@ fd51e780-bbd8-4c91-9c1d-2c1aeb30f541,fred.dad,premium,648.7,648.7,high,low,4,nam
 8acecfee-1806-418f-a616-1000a656e07a,kerr.dad,premium,37.7,37.7,high,low,4,namecheap,,,25/09/2026 19:26
 fd42d491-41b8-4b23-a38e-20fd8a12eccf,topical.dad,available,12.98,16.98,high,low,7,namecheap,,,11/09/2026 17:42
 704c9b42-fd46-45f5-990e-e8a98673ed26,supervised.dad,available,12.98,16.98,high,low,10,namecheap,,,11/09/2026 02:26
+12c94afe-e1c0-41a4-8d53-e90c6db1a15d,modernist.dad,available,12.98,16.98,high,low,9,namecheap,,,27/09/2026 04:47
 d53df181-0ec3-4ead-bebd-393335b61923,rand.dad,premium,76.7,76.7,high,low,4,namecheap,,,21/09/2026 10:39
 d7d1ae7c-9574-48bb-bc02-d12d1b4dbe66,aflutter.dad,available,12.98,16.98,medium,low,8,namecheap,,,
 2ce0dafb-50cf-421f-adcd-1cb5f87d4a1b,essential.dad,premium,323.7,323.7,high,low,9,namecheap,,,22/09/2026 00:42
@@ -842,6 +851,7 @@ d7d1ae7c-9574-48bb-bc02-d12d1b4dbe66,aflutter.dad,available,12.98,16.98,medium,l
 d172fda5-11b3-4d81-879e-b38b5a44bad7,hbo.dad,premium,73.75,,high,medium,3,name.com,,,
 f9f599a5-4974-400a-80e7-6e6e28e58ff8,forster.dad,available,12.98,16.98,medium,low,7,namecheap,,,26/09/2026 03:41
 0a69a1f8-d655-48d8-809b-08e76deabe4f,weekends.dad,available,12.98,16.98,high,low,8,namecheap,,,20/09/2026 22:23
+58a19257-54b6-433d-b8bc-46788fccfdf6,busch.dad,premium,37.7,37.7,medium,low,5,namecheap,,,27/09/2026 03:12
 b04930a6-f2d0-4643-bce0-8ae675661280,resinous.dad,available,12.98,16.98,medium,low,8,namecheap,,,09/09/2026 15:13
 6a0b6e2d-d3d2-4ba2-a8d1-da5fe4974fb1,sneezed.dad,available,12.98,16.98,low,low,7,namecheap,,,20/09/2026 15:10
 e908db84-3f45-49f6-ab7a-bc2131082648,untucked.dad,available,12.98,16.98,low,low,8,namecheap,,,12/09/2026 21:50
@@ -878,6 +888,7 @@ e99677c4-c7c0-474d-a944-f834b85c58fd,thence.dad,available,12.98,16.98,medium,low
 6b229776-b645-466b-877a-b9fc68227dba,cagey.dad,available,12.98,16.98,medium,low,5,namecheap,,,11/08/2026 13:19
 413e15a0-bb02-494b-9f9d-0214928342fe,non.dad,premium,161.25,,high,low,3,name.com,,,
 05c8838f-58bb-4d4d-8ca1-43bbb06dfa5a,adam.dad,premium,623.75,,high,high,4,name.com,,,
+0a8bc56a-3804-42fe-a347-0c3c2aac648f,sachs.dad,premium,37.7,37.7,medium,low,5,namecheap,,,27/09/2026 01:53
 7e7c60f0-a50a-4806-aa1e-d58cb8c9370c,inviolate.dad,available,12.98,16.98,medium,low,9,namecheap,,,22/08/2026 09:06
 7dc5af1a-41db-4a95-98f9-7aeab2cbc0dd,wafers.dad,available,12.98,16.98,medium,low,6,namecheap,,,20/09/2026 21:54
 c915fab8-1499-4c13-8c5c-34b1eb9aef66,afflicted.dad,available,12.98,16.98,high,low,9,namecheap,,,
@@ -904,7 +915,7 @@ a219eaf9-d5e6-43b4-b52c-1887ea70a6ce,vacuum.dad,premium,73.75,,high,low,6,name.c
 9e5355dd-f8a8-4e19-944d-3d4f54c1fbe5,skimmed.dad,available,12.98,16.98,medium,low,7,namecheap,,,10/09/2026 09:34
 c7ff8f88-6e45-4b32-928c-367bf49f0548,revokable.dad,available,12.98,16.98,medium,low,9,namecheap,,,09/09/2026 16:23
 fd0b0c26-a3f2-4eff-a1a0-2cbd82925b32,mesozoic.dad,available,12.98,16.98,medium,low,8,namecheap,,,24/08/2026 21:21
-75d4ef75-42ff-403b-a9ad-92814225fe0b,yes.dad,premium,623.75,,high,medium,3,name.com,,,
+75d4ef75-42ff-403b-a9ad-92814225fe0b,yes.dad,premium,648.7,648.7,high,medium,3,namecheap,,,27/09/2026 06:35
 cddf95bd-0b0c-412c-b674-9fbc6a421dd6,extinct.dad,available,12.98,16.98,high,low,7,namecheap,,,17/08/2026 19:11
 e4d4dc54-551e-4ffc-ae63-14c2d104bcdd,semisolid.dad,available,12.98,16.98,medium,low,9,namecheap,,,10/09/2026 03:26
 1841cb6a-b92a-47d7-bd95-2862f64b5b44,hammy.dad,available,12.98,16.98,medium,low,5,namecheap,,,20/08/2026 23:05
@@ -950,6 +961,7 @@ ca90c624-8e02-410e-8fea-4363ecdf7770,descent.dad,available,12.98,16.98,high,low,
 752d3ab6-d25c-4cf6-b1c3-bf0fb99d903c,exigent.dad,available,12.98,16.98,medium,low,7,namecheap,,,13/08/2026 09:31
 353fb302-7bb8-49e3-945f-d9874ce71fb9,moated.dad,available,12.98,16.98,medium,low,6,namecheap,,,25/08/2026 02:14
 a5026dd8-6b68-4d7b-b32c-347ed32a1e92,playaround.dad,available,12.98,16.98,medium,low,11,namecheap,,,17/09/2026 06:03
+8ee07dfb-6428-4235-91ba-ee992c4bf82e,warrior.dad,premium,167.7,167.7,high,low,7,namecheap,,,27/09/2026 05:52
 8b8ae213-fdd6-448c-a871-4986ba122267,windflower.dad,available,12.98,16.98,high,low,10,namecheap,,,19/09/2026 05:19
 6508b513-6f3e-48a1-a133-fcc316ce6bc0,unhurt.dad,available,12.98,16.98,high,medium,6,namecheap,,,09/09/2026 20:45
 15ccd8a4-9eac-4b9f-9f15-6c6705415f00,boxing.dad,premium,311.25,,high,low,6,name.com,,,
@@ -965,7 +977,7 @@ bfd3aa14-4fdc-4cd7-bb8b-fedd47b4e834,palmate.dad,available,12.98,16.98,medium,lo
 467f3faf-5ed6-429f-a4e3-7a183b8b7e5c,clack.dad,available,12.98,16.98,medium,low,5,namecheap,,,23/09/2026 23:30
 2426b946-2aa6-48a4-9e68-70627ec3af6b,desiccated.dad,available,12.98,16.98,medium,low,10,namecheap,,,14/08/2026 03:33
 b0451627-1d3d-483b-a7a8-ced8c671f861,acceptor.dad,available,16.99,18.99,high,low,8,name.com,,,16/09/2026 22:02
-6446ff95-eb18-4b6d-8c9e-95e4011cf01a,motivate.dad,premium,73.75,,high,low,8,name.com,,,
+6446ff95-eb18-4b6d-8c9e-95e4011cf01a,motivate.dad,premium,76.7,76.7,high,low,8,namecheap,,,27/09/2026 07:34
 3014608f-030b-4d19-b673-d8376eeed448,favourable.dad,available,12.98,16.98,high,low,10,namecheap,,,24/09/2026 17:24
 1a10204b-d31a-4a66-a9e4-40e86a2eefa9,lois.dad,premium,37.7,37.7,high,low,4,namecheap,,,25/09/2026 15:30
 188a5e95-2683-4431-aad7-4dc5c5c1dd0e,logan.dad,premium,323.7,323.7,high,low,5,namecheap,,,25/09/2026 09:03
@@ -987,15 +999,3 @@ b1217555-1dec-4880-a0db-7a3171f76262,token.dad,premium,1248.75,,high,medium,5,na
 6093c064-1c0c-42e4-86c0-ba29895a4401,cafe.dad,premium,648.7,648.7,high,low,4,namecheap,,,19/09/2026 13:35
 4159c67c-f21e-44f8-bcfa-c491539dabaa,honcho.dad,available,12.98,16.98,high,low,6,namecheap,,,10/08/2026 20:40
 b7172cb7-ad2b-4f16-b1c6-7c7593e78c24,abdominous.dad,available,12.98,16.98,medium,low,10,namecheap,,,
-ec34b44e-1ce3-4e74-98a4-b192ec3afa2b,trouble.dad,premium,76.7,76.7,high,low,7,namecheap,,,24/09/2026 07:29
-74f61bcc-3815-486f-98d6-5937595048f7,whammy.dad,available,12.98,16.98,medium,low,6,namecheap,,,21/08/2026 07:39
-d0f6af67-25ac-4af4-9dbf-3c504e68a9e7,aliment.dad,available,12.98,16.98,high,low,7,namecheap,,,18/09/2026 07:56
-40e3efbe-547e-4cc7-b581-9ab17dede9a9,synoptical.dad,available,12.98,16.98,medium,low,10,namecheap,,,11/09/2026 06:35
-ae3c3007-1a05-489a-8ac2-014563e93b05,mimic.dad,available,12.98,16.98,high,low,5,namecheap,,,24/08/2026 23:29
-765e905b-45e3-4b5b-aef5-58b2902363c1,boozer.dad,available,12.98,16.98,medium,low,6,namecheap,,,
-8c9c3205-97e6-4d55-a366-1b152541de7e,presently.dad,available,16.98,,high,low,9,namecheap,,,
-45e0c49d-6aba-439e-ae56-664e5c3d7c31,closely.dad,available,16.98,,high,low,7,namecheap,,,
-c5217403-c6b6-4a32-bff9-2aa12c7a71d9,quest.dad,premium,311.25,,high,medium,5,name.com,,,
-dd052d50-e280-48c2-8ea4-c13569f8c0ca,chinese.dad,premium,623.75,623.75,high,low,7,name.com,,,12/08/2026 05:43
-fd547bf2-7cf8-439c-bf4f-b11c3f607e59,screens.dad,premium,167.7,167.7,medium,low,7,namecheap,,,24/09/2026 16:03
-bf1a062c-1786-4e71-9c51-76b38468a4f7,acth.dad,available,12.98,16.98,medium,low,4,namecheap,,,17/09/2026 04:25
